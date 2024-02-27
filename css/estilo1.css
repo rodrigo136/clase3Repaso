@@ -1,0 +1,32 @@
+*
+{
+    font-family: cursive;
+    margin: 25px;
+}
+body
+{
+    background-color: rgb(104, 95, 93);
+}
+h1
+{
+    border: 10px;
+    border-style:dotted;
+    border-color: crimson;
+    padding: 15px;
+    color:rgb(228, 66, 206);
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+p
+{
+    color: rgb(206, 122, 255);
+    text-align: justify;
+    border-radius: 25px;
+    border-style:solid;
+    padding: 10px;
+}
+img
+{
+    width: 35%;
+}
